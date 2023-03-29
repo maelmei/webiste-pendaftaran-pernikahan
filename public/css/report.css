@@ -1,0 +1,17 @@
+#judul{
+    text-align:center;
+}
+
+#halaman{
+    width: auto; 
+    height: auto; 
+    position: absolute; 
+    border: 1px solid; 
+    padding-top: 30px; 
+    padding-left: 30px; 
+    padding-right: 30px; 
+    padding-bottom: 80px;
+    background-image: url('../img/uu.png'); 
+    background-repeat: no-repeat;
+    background-position: center center;
+}
